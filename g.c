@@ -9,7 +9,7 @@ int main() {
   // swapping
 
   // a = (initial_a - initial_b)
-  a = a - b;   
+   - b;   
 
   // b = (initial_a - initial_b) + initial_b = initial_a
   b = a + b;
